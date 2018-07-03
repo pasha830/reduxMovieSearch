@@ -1,4 +1,4 @@
-#Redux Movie Search
+# Redux Movie Search
 
 ## Introduction
 
