@@ -19,9 +19,6 @@ She already built some of it, but it doesn't quite seem to work. There's lots of
 * The completed app dynamically searched the OMDB Api for whatever string is in the input box.
 * The results are displayed below the search component. 
 
-![screenshot](/app.png)
-
-
 ## Steps
 
 1. Okay so your first goal may be to see what Georgia left so far for you. What do you think is missing and stopping the basic view from rendering? (Hint: your basic javascript console may hold the secret)
@@ -41,8 +38,14 @@ She already built some of it, but it doesn't quite seem to work. There's lots of
 * Make good use of the redux dev tools.
 * Keep an eye on your browser console!
 
-## Grading
+## Grading Criteria
 
-You'll be graded on the completed app and code quality. Make Georgia a happy customer too!
+* The completed app should send the correct GET request to the server.
+* The completed app dynamically searched the OMDB Api for whatever string is in the input box.
+* The results are displayed below the search component.
 
-**Make sure to submit your assignment as a link to a git repository.**
+Make sure to submit your assignment as a link to a git repository.
+
+#### Complete = Meets all grading criteria above.
+
+#### Incomplete = Does not meet all grading criteria above. Needs improvement or missing submission.
